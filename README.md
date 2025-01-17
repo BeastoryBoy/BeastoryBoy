@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Awaiz Baig from Bengaluru<br><br>- 📚 I'm currently learning my Computer Science Diploma <br>- ⚡ In my free time I try learning new programming languages  </p>
+<p align="left">I'm Awaiz Baig from Bengaluru<br><br>- 📚 I'm currently studying engineering in Computer Science <br>- ⚡ In my free time I try learning new programming languages  </p>
 
 ###
 
